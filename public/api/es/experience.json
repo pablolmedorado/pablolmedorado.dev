@@ -1,0 +1,193 @@
+{
+  "experience": [
+    {
+      "jobTitle": "Full Stack Developer",
+      "type": "Jornada completa",
+      "company": {
+        "name": "AERTEC Solutions",
+        "country": "🇪🇸",
+        "logo": "/static/img/aertec.png",
+        "website": "https://aertecsolutions.com"
+      },
+      "startMonth": "2016-01",
+      "endMonth": null,
+      "description": "Diseño y desarrollo de aplicaciones web en las instalaciones del cliente (Airbus D&S).",
+      "tags": [
+        "Apache",
+        "Bootstrap 3",
+        "Celery",
+        "Django REST Framework",
+        "Django",
+        "ES6",
+        "Git",
+        "Highcharts",
+        "Jenkins",
+        "jQuery UI",
+        "jQuery",
+        "Knockout.js",
+        "Nginx",
+        "Node.js",
+        "OLAP",
+        "Oracle 12c",
+        "Python 3",
+        "RabbitMQ",
+        "Redis",
+        "SonarQube",
+        "SVN",
+        "uWSGI",
+        "Vue.js",
+        "Vuetify"
+      ]
+    },
+    {
+      "jobTitle": "Ingeniero Técnico Informático",
+      "type": "Jornada completa",
+      "company": {
+        "name": "Texla Control",
+        "country": "🇪🇸",
+        "logo": "/static/img/texco.jpg",
+        "website": "https://www.linkedin.com/company/texla-control-sl"
+      },
+      "startMonth": "2015-04",
+      "endMonth": "2016-01",
+      "description": "-Gestión de servicios de hosting.\n-Soporte telefónico a usuarios.\n-Desarrollo y mantenimiento de aplicaciones web.\n-Desarrollo de aplicaciones móviles multiplataforma.",
+      "tags": [
+        "Angular JS",
+        "CSS 3",
+        "HTML 5",
+        "Ionic 1",
+        "JavaScript",
+        "jQuery",
+        "PHP 5",
+        "Plesk",
+        "Yii 2"
+      ]
+    },
+    {
+      "jobTitle": "Full Stack Developer",
+      "type": "Beca",
+      "company": {
+        "name": "AYESA",
+        "country": "🇪🇸",
+        "logo": "/static/img/ayesa.png",
+        "website": "https://www.ayesa.com"
+      },
+      "startMonth": "2014-10",
+      "endMonth": "2015-04",
+      "description": "Desarrollo y mantenimiento de aplicaciones para la Consejería de Justicia e Interior. Proyectos: AUPA, DIKE, RPOL.",
+      "tags": [
+        "CSS 3",
+        "Hibernate",
+        "HTML 5",
+        "Java EE 6",
+        "JavaScript",
+        "jQuery",
+        "jQuery UI",
+        "JSF",
+        "Maven",
+        "Oracle Forms",
+        "PL/SQL",
+        "PrimeFaces",
+        "Spring",
+        "Struts",
+        "SVN",
+        "Tomcat"
+      ]
+    },
+    {
+      "jobTitle": "Front End Developer",
+      "type": "Contrato por obra o servicio",
+      "company": {
+        "name": "I.M. Technologies",
+        "country": "🇮🇹",
+        "logo": "/static/img/im_tech.jpg",
+        "website": "https://im-tech.it"
+      },
+      "startMonth": "2014-05",
+      "endMonth": "2014-08",
+      "description": "Desarrollo del proyecto P@ORG para el Comune di Padova.",
+      "tags": [
+        "Apache",
+        "CSS 3",
+        "Dojo Toolkit",
+        "EJS",
+        "Git",
+        "HTML 5",
+        "JavaScript",
+        "PHP 5",
+        "SQLite"
+      ]
+    },
+    {
+      "jobTitle": "Front End Developer",
+      "type": "Beca Leonardo Da Vinci",
+      "company": {
+        "name": "Servizi Informatici e Telematici (Comune di Padova)",
+        "country": "🇮🇹",
+        "logo": "/static/img/comune_padova.jpg",
+        "website": "https://www.padovanet.it"
+      },
+      "startMonth": "2014-01",
+      "endMonth": "2014-04",
+      "description": "Colaboración en el proyecto P@DOC (Gestión documental y procedimental): Desarrollo completo del módulo de carga de archivos.",
+      "tags": [
+        "Apache",
+        "CSS 3",
+        "Dojo Toolkit",
+        "EJS",
+        "Git",
+        "HTML 5",
+        "JavaScript",
+        "PHP 5",
+        "SQLite"
+      ]
+    },
+    {
+      "jobTitle": "Ingeniero Técnico Informático",
+      "type": "Beca",
+      "company": {
+        "name": "CIC (Universidad Pablo de Olavide)",
+        "country": "🇪🇸",
+        "logo": "/static/img/upo.jpg",
+        "website": "https://www.upo.es/cic"
+      },
+      "startMonth": "2011-05",
+      "endMonth": "2012-09",
+      "description": "-Colaboración en el desarrollo de aplicaciones web.\n-Creación y gestión de máquinas virtuales a medida .\n-Creación servidor WebDAV con autenticación LDAP.\n-Apoyo al personal del área de gestión académica en tareas con ERP \"Universitas XXI\".",
+      "tags": [
+        "Hibernate",
+        "Java EE 6",
+        "KVM",
+        "Struts",
+        "SVN",
+        "Tomcat"
+      ]
+    },
+    {
+      "jobTitle": "Quality Assurance Tester",
+      "type": "Beca",
+      "company": {
+        "name": "Everis Solutions",
+        "country": "🇪🇸",
+        "logo": "/static/img/everis.jpg",
+        "website": "https://www.everis.com"
+      },
+      "startMonth": "2010-04",
+      "endMonth": "2011-01",
+      "description": "Aseguramiento de la calidad para las aplicaciones de la Consejería de Igualdad y Bienestar Social:\n-Revisión estática de código.\n-Revisión documental.\n-Carga y estrés.\n-Seguridad\n-Usabilidad.\n-Accesibilidad.",
+      "tags": [
+        "a11y",
+        "Checkstyle",
+        "FindBugs",
+        "Hudson",
+        "Java EE 5",
+        "JMeter",
+        "PL/SQL",
+        "PMD",
+        "Sonar",
+        "w3af",
+        "WCAG"
+      ]
+    }
+  ]
+}

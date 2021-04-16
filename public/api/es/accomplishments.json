@@ -1,0 +1,249 @@
+{
+  "certifications": [
+    {
+      "title": "Scrum Master",
+      "organization": {
+        "name": "Scrum Manager",
+        "country": "🇪🇸",
+        "logo": "/static/img/scrum_manager.png",
+        "website": "https://scrummanager.com"
+      },
+      "issueDate": "2019-03",
+      "expirationDate": null,
+      "description": null,
+      "id": "25396",
+      "url": "https://scrummanager.com/website/c/profile/member.php?id=25396"
+    },
+    {
+      "title": "First Certificate in English",
+      "organization": {
+        "name": "Cambridge Assessment English",
+        "country": "🇬🇧",
+        "logo": "/static/img/cambridge.png",
+        "website": "https://www.cambridgeenglish.org"
+      },
+      "issueDate": "2018-07",
+      "expirationDate": null,
+      "description": "B2. Grade B (178/190)",
+      "id": "187ES0400306",
+      "url": "/static/pdf/FCEStatementOfResult.pdf"
+    },
+    {
+      "title": "CILS B2",
+      "organization": {
+        "name": "Università per Stranieri di Siena",
+        "country": "🇮🇹",
+        "logo": "/static/img/unistrasi.png",
+        "website": "https://cils.unistrasi.it/home.asp"
+      },
+      "issueDate": "2013-12",
+      "expirationDate": null,
+      "description": "88/100",
+      "id": "22285981203068",
+      "url": "https://online.unistrasi.it/qr_cils.asp?ID=22285981203068"
+    }
+  ],
+  "assessments": {
+    "pluralsight": [
+      {
+        "topic": "ES6",
+        "level": "EXPERT",
+        "score": "209/300",
+        "date": "2020-09",
+        "badgeUrl": "https://i.stack.imgur.com/5fdCk.png"
+      },
+      {
+        "topic": "Vue.js",
+        "level": "EXPERT",
+        "score": "256/300",
+        "date": "2019-04",
+        "badgeUrl": "https://i.stack.imgur.com/DmTSG.png"
+      },
+      {
+        "topic": "Python",
+        "level": "EXPERT",
+        "score": "226/300",
+        "date": "2019-03",
+        "badgeUrl": "https://i.stack.imgur.com/5J9ca.png"
+      },
+      {
+        "topic": "JavaScript",
+        "level": "EXPERT",
+        "score": "225/300",
+        "date": "2019-03",
+        "badgeUrl": "https://i.stack.imgur.com/79iIE.png"
+      }
+    ],
+    "linkedin": [
+      {
+        "skill": "Cascading Style Sheets (CSS)",
+        "date": "2019-09-16"
+      },
+      {
+        "skill": "Django",
+        "date": "2020-09-16"
+      },
+      {
+        "skill": "Git",
+        "date": "2019-09-16"
+      },
+      {
+        "skill": "HTML",
+        "date": "2019-09-16"
+      },
+      {
+        "skill": "JavaScript",
+        "date": "2019-04-08"
+      },
+      {
+        "skill": "jQuery",
+        "date": "2019-04-08"
+      },
+      {
+        "skill": "JSON",
+        "date": "2019-09-16"
+      },
+      {
+        "skill": "Python",
+        "date": "2019-09-16"
+      }
+    ]
+  },
+  "courses": [
+    {
+      "title": "Análisis y Gestión de Riesgos y Análisis de Impacto y Operaciones de Continuidad con EAR/PILAR",
+      "organization": {
+        "name": "CIC (Universidad Pablo de Olavide)",
+        "country": "🇪🇸",
+        "logo": "/static/img/upo.jpg",
+        "website": "https://www.upo.es/cic"
+      },
+      "online": false
+    },
+    {
+      "title": "Desarrollo de aplicaciones para Android",
+      "organization": {
+        "name": "Universidad Galileo",
+        "country": "🇪🇸",
+        "logo": "/static/img/universidad_galileo.jpg",
+        "website": "http://telescopio.galileo.edu"
+      },
+      "duration": 120,
+      "online": true
+    },
+    {
+      "title": "Desarrollo de Aplicaciones en HTML5 y para Dispositivos Móviles Firefox O.S.",
+      "organization": {
+        "name": "Miríadax",
+        "country": "🇪🇸",
+        "logo": "/static/img/miriadax.jpg",
+        "website": "https://miriadax.net/home"
+      },
+      "duration": 40,
+      "online": true
+    },
+    {
+      "title": "Desarrollo de servicios en la nube con HTML5, Javascript y Node.js",
+      "organization": {
+        "name": "Miríadax",
+        "country": "🇪🇸",
+        "logo": "/static/img/miriadax.jpg",
+        "website": "https://miriadax.net/home"
+      },
+      "duration": 50,
+      "online": true
+    },
+    {
+      "title": "ERPagro: Formación para desarrolladores",
+      "duration": 40,
+      "organization": {
+        "name": "Hispatec",
+        "country": "🇪🇸",
+        "logo": "/static/img/hispatec.jpg",
+        "website": "https://www.hispatec.com"
+      },
+      "online": false
+    },
+    {
+      "title": "Formación obligatoria sobre seguridad y prevención de riesgos laborales",
+      "online": false
+    },
+    {
+      "title": "Gestión de proyectos Software con Git y GitHub",
+      "organization": {
+        "name": "Miríadax",
+        "country": "🇪🇸",
+        "logo": "/static/img/miriadax.jpg",
+        "website": "https://miriadax.net/home"
+      },
+      "duration": 24,
+      "online": true
+    },
+    {
+      "title": "ITIL V3. Gestión de Servicios TI",
+      "organization": {
+        "name": "CIC (Universidad Pablo de Olavide)",
+        "country": "🇪🇸",
+        "logo": "/static/img/upo.jpg",
+        "website": "https://www.upo.es/cic"
+      },
+      "online": false
+    },
+    {
+      "title": "Implantación del Esquema Nacional de Seguridad (ENS)",
+      "organization": {
+        "name": "CIC (Universidad Pablo de Olavide)",
+        "country": "🇪🇸",
+        "logo": "/static/img/upo.jpg",
+        "website": "https://www.upo.es/cic"
+      },
+      "online": false
+    },
+    {
+      "title": "Programacion Web con JavaScript y jQuery",
+      "duration": 200,
+      "online": true
+    },
+    {
+      "title": "Programador de Aplicaciones Web",
+      "organization": {
+        "name": "Guadalux",
+        "country": "🇪🇸",
+        "logo": "/static/img/guadalux.png",
+        "website": "https://twitter.com/fguadalux"
+      },
+      "duration": 620,
+      "online": false
+    },
+    {
+      "title": "Seguridad de la Información",
+      "organization": {
+        "name": "AYESA",
+        "country": "🇪🇸",
+        "logo": "/static/img/ayesa.png",
+        "website": "https://www.ayesa.com"
+      },
+      "online": false
+    },
+    {
+      "title": "Sociedad Vigilada y Proteccion de Datos",
+      "organization": {
+        "name": "Olavide en Carmona (Universidad Pablo de Olavide)",
+        "country": "🇪🇸",
+        "logo": "/static/img/upo.jpg",
+        "website": "https://upo.es/olavideencarmona"
+      },
+      "online": false
+    },
+    {
+      "title": "Jugando con Android - Aprende a programar tu primera App",
+      "organization": {
+        "name": "edX",
+        "country": "🇪🇸",
+        "logo": "/static/img/edx.png",
+        "website": "https://www.edx.org"
+      },
+      "online": true
+    }
+  ]
+}

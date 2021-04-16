@@ -1,0 +1,16 @@
+{
+  // General
+  "editor.formatOnSave": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  // CSS
+  "css.lint.unknownAtRules": "ignore", // avoid Tailwind CSS linting errors
+  // JavaScript
+  "javascript.format.enable": false,
+  "javascript.suggestionActions.enabled": false,
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features",
+    "editor.formatOnSave": true,
+  },
+}

@@ -1,0 +1,26 @@
+{
+  "locales": [
+    "es"
+  ],
+  "defaultLocale": "es",
+  "pages": {
+    "/": [
+      "index"
+    ],
+    "/accomplishments": [
+      "accomplishments"
+    ],
+    "/education": [
+      "education"
+    ],
+    "/experience": [
+      "experience"
+    ],
+    "/skills": [
+      "skills"
+    ],
+    "/404": [
+      "404"
+    ]
+  }
+}
