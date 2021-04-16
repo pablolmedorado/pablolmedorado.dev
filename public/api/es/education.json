@@ -1,0 +1,112 @@
+{
+  "education": [
+    {
+      "title": "Laurea Magistrale in Ingegneria Informatica",
+      "school": {
+        "name": "Università di Bologna",
+        "country": "🇮🇹",
+        "logo": "/static/img/unibo.jpg",
+        "website": "https://www.unibo.it/it/ateneo/sedi-e-strutture/scuole/scuola-di-ingegneria"
+      },
+      "startMonth": "2012-09",
+      "endMonth": "2013-07",
+      "description": "Beca Erasmus",
+      "tags": [
+        "Java EE 6"
+      ]
+    },
+    {
+      "title": "Grado en Ingeniería Informática en Sistemas de Información",
+      "school": {
+        "name": "Universidad Pablo de Olavide",
+        "country": "🇪🇸",
+        "logo": "/static/img/upo.jpg",
+        "website": "https://www.upo.es/portal/impe/web/portada/index.html"
+      },
+      "startMonth": "2011-10",
+      "endMonth": "2017-09",
+      "description": "Adaptación de la ingeniería técnica al grado.",
+      "tags": [
+        "Angular 2",
+        "Ansible",
+        "CSS 3",
+        "Django",
+        "ES6",
+        "Git",
+        "GitHub",
+        "HTML 5",
+        "Jenkins",
+        "Node.js",
+        "Python 2",
+        "Travis CI",
+        "TypeScript"
+      ]
+    },
+    {
+      "title": "Ingeniería Técnica en Informática de Gestión",
+      "school": {
+        "name": "Universidad Pablo de Olavide",
+        "country": "🇪🇸",
+        "logo": "/static/img/upo.jpg",
+        "website": "https://www.upo.es/portal/impe/web/portada/index.html"
+      },
+      "startMonth": "2006-10",
+      "endMonth": "2010-09",
+      "description": null,
+      "tags": [
+        "C",
+        "CSS 2",
+        "HTML 4",
+        "Java SE 6",
+        "JavaScript",
+        "JUnit",
+        "MySQL 4",
+        "Oracle 9i",
+        "PHP 4",
+        "PL/SQL",
+        "SQL"
+      ]
+    },
+    {
+      "title": "Bachillerato Tecnológico",
+      "school": {
+        "name": "IES Nervión",
+        "country": "🇪🇸",
+        "logo": "/static/img/ies_nervion.jpg",
+        "website": "http://www.institutonervion.es"
+      },
+      "startMonth": "2004-09",
+      "endMonth": "2006-06",
+      "description": null,
+      "tags": [
+        "GNU/Linux"
+      ]
+    },
+    {
+      "title": "Educación Secundaria Obligatoria",
+      "school": {
+        "name": "Colegio Pontífice Pablo VI",
+        "country": "🇪🇸",
+        "logo": "/static/img/pontifice_pablo_vi.jpg",
+        "website": "http://pontificepablovi.com"
+      },
+      "startMonth": "2000-09",
+      "endMonth": "2004-06",
+      "description": null,
+      "tags": []
+    },
+    {
+      "title": "Educación Primaria",
+      "school": {
+        "name": "Colegio Pontífice Pablo VI",
+        "country": "🇪🇸",
+        "logo": "/static/img/pontifice_pablo_vi.jpg",
+        "website": "http://pontificepablovi.com"
+      },
+      "startMonth": "1994-09",
+      "endMonth": "2000-06",
+      "description": null,
+      "tags": []
+    }
+  ]
+}

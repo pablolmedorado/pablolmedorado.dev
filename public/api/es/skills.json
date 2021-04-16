@@ -1,0 +1,322 @@
+{
+  "softSkills": {
+    "skills": [
+      {
+        "name": "Comunicación",
+        "level": 3
+      },
+      {
+        "name": "Cortesía",
+        "level": 3
+      },
+      {
+        "name": "Flexibilidad",
+        "level": 3
+      },
+      {
+        "name": "Integridad",
+        "level": 4
+      },
+      {
+        "name": "Habilidades interpersonales",
+        "level": 3
+      },
+      {
+        "name": "Actitud positiva",
+        "level": 2
+      },
+      {
+        "name": "Profesionalidad",
+        "level": 3
+      },
+      {
+        "name": "Responsabilidad",
+        "level": 4
+      },
+      {
+        "name": "Trabajo en equipo",
+        "level": 3
+      },
+      {
+        "name": "Actitud hacia el trabajo",
+        "level": 3
+      }
+    ],
+    "levels": [
+      {
+        "value": 1,
+        "name": "Nefasto"
+      },
+      {
+        "value": 2,
+        "name": "A Mejorar"
+      },
+      {
+        "value": 3,
+        "name": "Equilibrado"
+      },
+      {
+        "value": 4,
+        "name": "Destacable"
+      }
+    ]
+  },
+  "hardSkills": {
+    "skills": [
+      {
+        "name": "Python",
+        "level": 4,
+        "category": "L",
+        "color": "#ffd343"
+      },
+      {
+        "name": "JavaScript",
+        "level": 4,
+        "category": "L",
+        "color": "#f7e018"
+      },
+      {
+        "name": "TypeScript",
+        "level": 2,
+        "category": "L",
+        "color": "#3178c6"
+      },
+      {
+        "name": "CSS",
+        "level": 3,
+        "category": "L",
+        "color": "#0070ba"
+      },
+      {
+        "name": "HTML",
+        "level": 4,
+        "category": "L",
+        "color": "#e54d26"
+      },
+      {
+        "name": "SQL",
+        "level": 3,
+        "category": "L"
+      },
+      {
+        "name": "Java",
+        "level": 2,
+        "category": "L",
+        "color": "#ed0000"
+      },
+      {
+        "name": "Markdown",
+        "level": 1,
+        "category": "L",
+        "color": "#000000"
+      },
+      {
+        "name": "Vue.js",
+        "level": 3,
+        "category": "FL",
+        "color": "#41b883"
+      },
+      {
+        "name": "Angular",
+        "level": 2,
+        "category": "FL",
+        "color": "#dd0031"
+      },
+      {
+        "name": "Next.js",
+        "level": 1,
+        "category": "FL",
+        "color": "#000000"
+      },
+      {
+        "name": "Django",
+        "level": 4,
+        "category": "FL",
+        "color": "#0c4b33"
+      },
+      {
+        "name": "Django REST framework",
+        "level": 4,
+        "category": "FL",
+        "color": "#a30000"
+      },
+      {
+        "name": "Vuetify",
+        "level": 3,
+        "category": "FL",
+        "color": "#1697f6"
+      },
+      {
+        "name": "Bootstrap",
+        "level": 4,
+        "category": "FL",
+        "color": "#7811f7"
+      },
+      {
+        "name": "Tailwind CSS",
+        "level": 1,
+        "category": "FL",
+        "color": "#06b6d4"
+      },
+      {
+        "name": "React",
+        "level": 1,
+        "category": "FL",
+        "color": "#61dafb"
+      },
+      {
+        "name": "Knockout",
+        "level": 4,
+        "category": "FL",
+        "color": "#a61400"
+      },
+      {
+        "name": "jQuery",
+        "level": 3,
+        "category": "FL",
+        "color": "#0769ad"
+      },
+      {
+        "name": "Highcharts",
+        "level": 3,
+        "category": "FL",
+        "color": "#47475c"
+      },
+      {
+        "name": "Chart.js",
+        "level": 1,
+        "category": "FL",
+        "color": "#ff6384"
+      },
+      {
+        "name": "Celery",
+        "level": 2,
+        "category": "FL",
+        "color": "#b7df64"
+      },
+      {
+        "name": "Oracle",
+        "level": 3,
+        "category": "DB",
+        "color": "#c74634"
+      },
+      {
+        "name": "PostgreSQL",
+        "level": 2,
+        "category": "DB",
+        "color": "#306792"
+      },
+      {
+        "name": "SQLite",
+        "level": 2,
+        "category": "DB",
+        "color": "#044a64"
+      },
+      {
+        "name": "MongoDB",
+        "level": 1,
+        "category": "DB",
+        "color": "#13aa52"
+      },
+      {
+        "name": "SVN",
+        "level": 2,
+        "category": "O",
+        "color": "#93b0da"
+      },
+      {
+        "name": "Git",
+        "level": 3,
+        "category": "O",
+        "color": "#f05133"
+      },
+      {
+        "name": "SonarQube",
+        "level": 2,
+        "category": "O",
+        "color": "#4c9bd6"
+      },
+      {
+        "name": "Docker",
+        "level": 2,
+        "category": "O",
+        "color": "#007bff"
+      },
+      {
+        "name": "Firebase",
+        "level": 1,
+        "category": "O",
+        "color": "#ffcb2c"
+      },
+      {
+        "name": "Netlify",
+        "level": 1,
+        "category": "O",
+        "color": "#4a9dbe"
+      },
+      {
+        "name": "DialogFlow",
+        "level": 1,
+        "category": "O",
+        "color": "#ef6c00"
+      },
+      {
+        "name": "Node.js",
+        "level": 1,
+        "category": "O",
+        "color": "#026e00"
+      },
+      {
+        "name": "Android",
+        "level": 1,
+        "category": "O",
+        "color": "#3ddc84"
+      },
+      {
+        "name": "Google Assistant Actions",
+        "level": 1,
+        "category": "O"
+      }
+    ],
+    "categories": [
+      {
+        "value": "L",
+        "name": "Lenguajes"
+      },
+      {
+        "value": "FL",
+        "name": "Frameworks/Librerías"
+      },
+      {
+        "value": "DB",
+        "name": "Bases de datos"
+      },
+      {
+        "value": "O",
+        "name": "Otros"
+      }
+    ],
+    "levels": [
+      {
+        "value": 1,
+        "name": "Básico",
+        "description": "Formación básica pero sin experiencia / Hasta 6 meses de experiencia continuada. Puede realizar tareas bajo supervision puntual."
+      },
+      {
+        "value": 2,
+        "name": "Inicial",
+        "description": "Sin formación específica pero con experiencia. Más de 6 meses de experiencia continuada / Puede realizar tareas y ser autónomo dentro de un marco predefinido."
+      },
+      {
+        "value": 3,
+        "name": "Intermedio",
+        "description": "Nivel considerable de conocimiento y experiencia. Formación específica y más de un año de experiencia continuada / Más de 3 años de experiencia continuada / Capacidad para realizar todas las tareas asignadas de forma completamente autónoma."
+      },
+      {
+        "value": 4,
+        "name": "Avanzado",
+        "description": "Nivel experto de conocimiento y experiencia. Certificación oficial y más de 2 años de experiencia / Más de 5 años de experiencia continuada / Cualificado para realizar todas las tareas asignadas de forma completamente autónoma y reaccionando a imprevistos. Especialista dentro del equipo."
+      }
+    ]
+  }
+}

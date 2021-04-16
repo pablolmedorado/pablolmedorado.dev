@@ -1,0 +1,23 @@
+{
+  "name": "pablolmedorado.dev",
+  "dockerComposeFile": "docker-compose.yml",
+  "service": "app",
+  "workspaceFolder": "/usr/src/app",
+  "postCreateCommand": "npm install",
+  "shutdownAction": "stopCompose",
+  "extensions": [
+    "bradlc.vscode-tailwindcss",
+    "dbaeumer.vscode-eslint",
+    "editorconfig.editorconfig",
+    "eg2.vscode-npm-script"
+  ],
+  "settings": {
+    // Workspace & Editor
+    "terminal.integrated.shell.linux": "/usr/bin/zsh",
+    // npm extension
+    "npm.runInTerminal": true,
+    // Telemetry
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false
+  }
+}

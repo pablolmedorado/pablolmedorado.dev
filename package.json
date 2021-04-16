@@ -1,0 +1,71 @@
+{
+  "name": "pablolmedorado.dev",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next -H 0.0.0.0",
+    "build": "next build",
+    "start": "next start",
+    "release": "standard-version",
+    "type-check": "tsc --project tsconfig.json --pretty --noEmit",
+    "lint": "eslint --ext js,jsx,ts,tsx --fix ."
+  },
+  "keywords": [],
+  "author": "Pablo Olmedo Dorado",
+  "license": "MIT",
+  "standard-version": {
+    "skip": {
+      "bump": false,
+      "changelog": false,
+      "commit": false,
+      "tag": true
+    }
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run type-check && npm run lint .",
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.35",
+    "@fortawesome/free-brands-svg-icons": "^5.15.3",
+    "@fortawesome/free-regular-svg-icons": "^5.15.3",
+    "@fortawesome/free-solid-svg-icons": "^5.15.3",
+    "@fortawesome/react-fontawesome": "^0.1.13",
+    "autoprefixer": "^10.2.5",
+    "chart.js": "^2.9.4",
+    "date-fns": "^2.21.1",
+    "jetbrains-mono": "^1.0.1",
+    "lodash": "^4.17.21",
+    "next": "^10.1.3",
+    "next-translate": "^1.0.5",
+    "postcss": "^8.2.10",
+    "react": "^17.0.2",
+    "react-chartjs-2": "^2.11.1",
+    "react-dom": "^17.0.2",
+    "source-sans-pro": "^3.6.0",
+    "tailwindcss": "^2.1.1"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^12.1.1",
+    "@commitlint/config-conventional": "^12.1.1",
+    "@types/lodash": "^4.14.167",
+    "@types/node": "^14.14.41",
+    "@types/react": "^17.0.3",
+    "@types/styled-jsx": "^2.2.8",
+    "@typescript-eslint/eslint-plugin": "^4.22.0",
+    "@typescript-eslint/parser": "^4.22.0",
+    "eslint": "^7.24.0",
+    "eslint-config-prettier": "^8.2.0",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-prettier": "^3.4.0",
+    "eslint-plugin-react": "^7.23.2",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "husky": "^6.0.0",
+    "prettier": "^2.2.1",
+    "standard-version": "^9.2.0",
+    "typescript": "^4.2.4"
+  }
+}

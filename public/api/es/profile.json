@@ -1,0 +1,18 @@
+{
+  "firstName": "Pablo",
+  "lastName": "Olmedo Dorado",
+  "birthdate": "1988-04-07",
+  "birthplace": {
+    "name": "Sevilla",
+    "country": "🇪🇸"
+  },
+  "jobTitle": "Full-Stack Developer",
+  "profilePicture": "/static/img/profile.jpg",
+  "about": "Informático de vocación. Apasionado de las tecnologías, las redes sociales, viajar, ratos entre amigos y los memes (y no necesariamente en este orden). En lo laboral tengo preferencia por las tecnologías web y móviles y, aunque no hago ascos a nada, cojeo más del lado front.",
+  "email": "pablolmedorado@gmail.com",
+  "linkedinUsername": "polmdor",
+  "twitterUsername": "pablolmedorado",
+  "githubUsername": "pablolmedorado",
+  "stackoverflowUsername": "pablolmedorado",
+  "telegramUsername": "pablolmedorado"
+}
