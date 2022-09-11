@@ -1,26 +1,43 @@
 {
   "experience": [
     {
+      "jobTitle": "Front End Developer",
+      "type": "Jornada completa",
+      "company": {
+        "name": "Portfolio Stock Exchange",
+        "country": "🇪🇸",
+        "logo": "/static/img/portfolio.jpg",
+        "website": "https://portfolio.exchange/"
+      },
+      "startMonth": "2022-08",
+      "endMonth": null,
+      "description": null,
+      "tags": []
+    },
+    {
       "jobTitle": "Full Stack Developer",
       "type": "Jornada completa",
       "company": {
         "name": "AERTEC Solutions",
         "country": "🇪🇸",
-        "logo": "/static/img/aertec.png",
+        "logo": "/static/img/aertec.jpg",
         "website": "https://aertecsolutions.com"
       },
       "startMonth": "2016-01",
-      "endMonth": null,
+      "endMonth": "2022-08",
       "description": "Diseño y desarrollo de aplicaciones web en las instalaciones del cliente (Airbus D&S).",
       "tags": [
+        "Amazon AWS",
         "Apache",
         "Bootstrap 3",
         "Celery",
+        "CSS 3",
         "Django REST Framework",
         "Django",
         "ES6",
         "Git",
         "Highcharts",
+        "HTML 5",
         "Jenkins",
         "jQuery UI",
         "jQuery",
