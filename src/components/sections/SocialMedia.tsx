@@ -10,6 +10,7 @@ export const SocialMediaPresence: FC<Profile> = ({
   linkedinUsername,
   twitterUsername,
   githubUsername,
+  stackoverflowId,
   stackoverflowUsername,
 }) => {
   const buttons = [
@@ -47,7 +48,7 @@ export const SocialMediaPresence: FC<Profile> = ({
       icon: ["fab", "stack-overflow"],
       backgroundColor: "bg-stackoverflow",
       textColor: "text-black",
-      href: `https://stackoverflow.com/story/${stackoverflowUsername}`,
+      href: `https://stackoverflow.com/users/${stackoverflowId}/${stackoverflowUsername}`,
     },
   ];
 

@@ -13,6 +13,7 @@ export default interface Profile {
   linkedinUsername?: string;
   twitterUsername?: string;
   githubUsername?: string;
+  stackoverflowId?: number;
   stackoverflowUsername?: string;
   telegramUsername?: string;
 }
