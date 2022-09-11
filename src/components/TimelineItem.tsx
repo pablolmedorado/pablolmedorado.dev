@@ -33,7 +33,7 @@ export const TimelineItem: FC<Props> = ({ timeRange, timeFormat, text, isFirst, 
             <path d="M 6 -6 V -45" fill="none" strokeWidth="2" stroke="currentColor" className="text-gray-300"></path>
           )}
           {!isLast && (
-            <path d="M 6 18 V 500" fill="none" strokeWidth="2" stroke="currentColor" className="text-gray-300"></path>
+            <path d="M 6 18 V 1000" fill="none" strokeWidth="2" stroke="currentColor" className="text-gray-300"></path>
           )}
         </svg>
         <div className="flex flex-row md:flex-col space-x-1 md:space-x-0">

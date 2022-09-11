@@ -13,7 +13,7 @@ export const PageFooter: FC = () => {
           <span role="img" aria-label="love">
             ❤️
           </span>{" "}
-          with : Next.js / Tailwind CSS / Vercel.{" "}
+          using : Next.js / Tailwind CSS / Vercel.{" "}
           <a
             className="text-secondary-dark"
             href="https://github.com/pablolmedorado/pablolmedorado.dev"
