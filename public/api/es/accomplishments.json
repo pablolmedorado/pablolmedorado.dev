@@ -84,6 +84,10 @@
         "date": "2020-09-16"
       },
       {
+        "skill": "Front end development",
+        "date": "2021-04-16"
+      },
+      {
         "skill": "Git",
         "date": "2019-09-16"
       },
@@ -104,8 +108,16 @@
         "date": "2019-09-16"
       },
       {
+        "skill": "Object-oriented programming (OOP)",
+        "date": "2021-07-18"
+      },
+      {
         "skill": "Python",
         "date": "2019-09-16"
+      },
+      {
+        "skill": "React.js",
+        "date": "2021-04-16"
       }
     ]
   },
